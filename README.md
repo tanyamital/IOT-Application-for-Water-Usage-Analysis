@@ -1,1 +1,2 @@
 # IOT-Application-for-Water-Usage-Analysis
+The hardware of this application is built using arduino technology, and includes a waterflow sensor which gauges the flow of water of the tap it's fitted on. The analytics of the usage is sent to the user on an app with the help of a wifi module. When the user's phone is connected to the wifi of the device, the user can view the statistics of their water usage and minimise their usage if there is a need to do so.
