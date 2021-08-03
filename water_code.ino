@@ -1,8 +1,8 @@
 /*
-YF‐ S201 Water Flow Sensor
+Water Flow Sensor
 Water Flow Sensor output processed to read in litres/hour
-Adaptation Courtesy: www.hobbytronics.co.uk
 */
+
 volatile int flow_frequency; // Measures flow sensor pulses
 unsigned int l_hour; // Calculated litres/hour
 unsigned char flowsensor = 2; // Sensor Input
